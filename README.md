@@ -15,15 +15,11 @@ Welcome to the Java Programming Tasks repository! This collection includes a set
      This Java program reads two floating-point numbers from the user, calculates their average, and displays the result on the console with two decimal places.
 
 ## Task 2: Basic Calculator
-
-### Basic Calculator
    - **File:** `Integer_and_Calculate_avg.java`
    - **Description:**
      This Java program simulates a basic calculator with functionalities to perform addition, subtraction, multiplication, and division. It prompts the user to enter two numbers and an operator (+, -, *, /), performs the corresponding operation, and displays the result. The program handles division by zero and invalid operator inputs gracefully.
 
 ## Task 3: Happy Number Check
-
-### Happy Number Check
    - **File:** `HappyNumberCheck.java`
    - **Description:**
      This Java program determines if a given number `n` is a happy number. A happy number is defined by the process of replacing the number by the sum of the squares of its digits. The program repeats the process until the number equals 1 or loops endlessly in a cycle. It prints `true` if `n` is a happy number and `false` otherwise.
