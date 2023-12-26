@@ -46,5 +46,5 @@ To compile and run the Java programs, follow these general instructions:
     java filename
 
 ## Contributors
-Tamilselvan (21cse058tamilselvan@example.com)
+Tamilselvan (21cse058tamilselvan@gmail.com)
 Feel free to contribute to this repository by adding more Java programs or improving existing ones. If you encounter any issues or have suggestions, please open an issue or submit a pull request. Happy coding!
