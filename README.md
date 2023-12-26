@@ -25,8 +25,6 @@ Welcome to the Java Programming Tasks repository! This collection includes a set
      This Java program determines if a given number `n` is a happy number. A happy number is defined by the process of replacing the number by the sum of the squares of its digits. The program repeats the process until the number equals 1 or loops endlessly in a cycle. It prints `true` if `n` is a happy number and `false` otherwise.
      
 ## Task 4: Separate Odd and Even Elements
-
-### Separate Odd and Even Elements
    - **File:** `OddEvenSeparation.java`
    - **Description:**
      This Java program takes an array as input from the user, separates odd and even elements into two lists, and displays the results.
@@ -45,8 +43,6 @@ Welcome to the Java Programming Tasks repository! This collection includes a set
      ```
 
 ## Task 5: Compression of String
-
-### Compression of String
    - **File:** `StringCompression.java`
    - **Description:**
      This Java program takes a string as input from the user, compresses it by representing consecutive characters with counts, and displays the result.
@@ -62,7 +58,6 @@ Welcome to the Java Programming Tasks repository! This collection includes a set
 
 ## Task 6: Zigzag Pattern for String
 
-### Zigzag Pattern for String
    - **File:** `ZigzagPattern.java`
    - **Description:**
      This Java program takes a string as input from the user and prints a zigzag pattern based on the characters in the string.
